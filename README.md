@@ -7,9 +7,9 @@ Como podréis comprobar, en el fichero index tenéis una preview de una emisión
 
 ![Imagen 1](https://csv1.blob.core.windows.net/csblob1/3/images/diagramasintitulo1.1564498583.png)
 
-•	Botón video: tiene que enseñar durante 30 segundos el video adjuntado y ocultar mientras tanto la preview. Tras estos 30 segundos, se tiene que volver a enseñar la preview.
-•	Botón image: tiene que enseñar durante 30 segundos la imagen adjuntada y ocultar mientras tanto la preview. Tras estos 30 segundos, se tiene que volver a enseñar la preview.
-•	Botón API: Hemos creado una API que devuelve al azar información en XML, JSON y txt. Cuando pulséis el botón tenéis que interpretar la información y poner algunos datos en un contenedor. Es a vosotros de poner esta información como queráis. No es necesario que ocultéis la preview ni nada, solo poner en un sitio visible alguno de los campos que os devuelva la API. Los campos del JSON, del XML y del TXT no van a cambiar, por lo que la estructura siempre va a ser la misma.
+* Botón video: tiene que enseñar durante 30 segundos el video adjuntado y ocultar mientras tanto la preview. Tras estos 30 segundos, se tiene que volver a enseñar la preview.
+* Botón image: tiene que enseñar durante 30 segundos la imagen adjuntada y ocultar mientras tanto la preview. Tras estos 30 segundos, se tiene que volver a enseñar la preview.
+* Botón API: Hemos creado una API que devuelve al azar información en XML, JSON y txt. Cuando pulséis el botón tenéis que interpretar la información y poner algunos datos en un contenedor. Es a vosotros de poner esta información como queráis. No es necesario que ocultéis la preview ni nada, solo poner en un sitio visible alguno de los campos que os devuelva la API. Los campos del JSON, del XML y del TXT no van a cambiar, por lo que la estructura siempre va a ser la misma.
 En otro fichero independiente que debéis crear vosotros, tiene que aparecer 3 botones (WD_CH_1, WD_CH_2 y WD_CH_3). 
 
 ![Imagen 2](https://csv1.blob.core.windows.net/csblob1/3/images/diagramasintitulo2.1564498583.png)
