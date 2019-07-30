@@ -2,7 +2,9 @@
 
 Con este ejercicio queremos ver vuestra capacidad para resolver un problema real.
 En el fichero comprimido que os hemos adjuntado, podréis encontrar el fichero index.php sobre el que tendréis que trabajar además de un fichero con distintos enlaces que os ayudarán para completarlo. 
+
 Tendréis que trabajar con el fichero index.php que os adjuntamos para la primera parte del ejercicio y podéis modificarlo y añadir lo que os haga falta para completar lo que pedimos.
+
 Como podréis comprobar, en el fichero index tenéis una preview de una emisión de skysignage. En la misma página que os proporcionamos, tenéis que crear un contenedor con 3 botones, uno que ponga "video", otro que ponga "image" y otro que ponga "API". Las funciones de estos botones tienen que ser las siguientes: 
 
 
